@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+focus should be on calculator.js thank you
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
